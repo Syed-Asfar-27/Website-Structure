@@ -1,0 +1,176 @@
+*{
+    list-style: none;
+    padding: 0;
+    text-decoration: none;
+    
+    
+}
+.navbar{
+    background-color:teal;
+    height: 1790px;
+    width: 100px;
+    display:flex;
+    padding: 12px;
+    border-radius: 30px;
+    
+}
+.navbar ul li a b:hover{
+    color: yellow;
+    
+}
+.navbar ul li a b{
+    color: white;  
+    font-family: 'Josefin Sans';  
+}
+.header {
+    float: right;
+    background-color: teal;
+    width: 1212px;
+    border-radius: 20px;
+    
+}
+.ep li{
+    display: inline;
+    float: right;
+    text-align: right;
+    margin-right: 30px;
+    color: white;
+    
+}
+.slider img{
+    float: right;
+    height: 400px;
+    width: 1215px;
+    margin-bottom: 20px;
+    
+}
+.list li b{
+    width: 200px;
+    
+}
+.slider h1{
+    text-align: center;
+    text-shadow: 0 0 3px red;
+}
+.abc{
+    width: 112px;
+}
+.about div{
+    text-align: justify;
+}
+.about h2{
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+.vision{
+    background-color: chocolate;
+    padding: 10px;
+    border-radius: 20px;
+}
+.mission{
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 20px;
+}
+.ceo{
+    background-color: crimson;
+    padding: 10px;
+    border-radius: 20px;
+}
+.slider h2{
+    background-color: darkgrey;
+}
+.marq{
+    
+    height:20px;
+    color:white;
+    padding: 10px;
+    border-radius: 20px;
+} 
+.contact{
+    width: 1215px;
+    
+}
+.input-field{
+    width: 1120px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid #777;
+    border-radius: 16px;
+}
+.textarea-field{
+    height: 150px;
+    padding-top: 10px;
+    border-radius: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    width: 1120px;
+    border: 2px solid #777;
+}
+.btn{
+    border-radius: 20px;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: #45c37a;
+    color: white;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+    
+}
+.btn:hover{
+    background-color:cadetblue;
+}
+.footer{
+    flex-wrap: row wrap;
+    padding: 50px;
+    color: #fff;
+    background-color: #25242a;
+    display: flex;
+    border-radius: 30px 30px 0px 0px;
+    margin-left: 2px;
+}
+.footer-h3{
+    font-size: 17px;
+    color: darkorange;
+    text-decoration: none;
+    list-style: none;
+}
+.footer ul li{
+    margin-bottom: 12px;
+}
+.footer-content h3{
+    margin-left: 130px;
+}
+.footer-content ul{
+    margin-left: 130px;
+}
+.footer-content input{
+    margin-left: 130px;
+    height: 30px;
+}
+.button{
+    height: 36px;
+    width: 70px;
+    background-color: darkorange;
+    
+}
+.button:hover{
+    background-color:chocolate;
+    cursor: pointer;
+}
+.rights{
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    background-color: #25242a;
+    border-radius: 0px 0px 30px 30px;
+    margin-left: 2px;
+}
+.qwik{
+    color: goldenrod;
+}
